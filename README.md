@@ -7,7 +7,7 @@
 ## Description
 This is a ReactJS personal portfolio website
 
-## View the live site here: https://david-livingstone-hini-001.netlify.app/
+## View the live site here: https://david-livingstone-775c11.netlify.app/
 
 ## Make it Your Own!
 #### PREREQUISITES:
