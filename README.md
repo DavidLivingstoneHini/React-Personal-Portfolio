@@ -5,7 +5,9 @@
 ## <a href="https://pensive-golick-762a4c.netlify.app" target="_blank">LIVE DEMO</a>
 
 ## Description
-This is my ReactJS personal portfolio website  
+This is a ReactJS personal portfolio website
+
+## View the live site here: https://david-livingstone-hini-001.netlify.app/
 
 ## Make it Your Own!
 #### PREREQUISITES:
