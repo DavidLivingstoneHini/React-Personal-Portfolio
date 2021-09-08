@@ -2,7 +2,7 @@
 
 ![ReactJS Resume Website Template](portfolio.png?raw=true "ReactJS Resume Website Template")
 
-## <a href="https://david-livingstone-775c11.netlify.app/" target="_blank">LIVE DEMO</a>
+## <a href="https://david-livingstone-775c11.netlify.app/" target="_blank">VIEW LIVE SITE</a>
 
 ## Description
 This is a ReactJS personal portfolio website
